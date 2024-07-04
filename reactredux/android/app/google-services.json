@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089211823628",
+    "project_id": "shopping-app-2a586",
+    "storage_bucket": "shopping-app-2a586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089211823628:android:2ce1d0920ed244fc38a029",
+        "android_client_info": {
+          "package_name": "com.reactredux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hjEZZHIG_NVg_JVnYMmMp01ouQ8AOwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
